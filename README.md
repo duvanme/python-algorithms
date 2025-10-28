@@ -1,2 +1,2 @@
 # python-algorithms
-Algorithm from the book "Introduction to Algorithms" In Python
+Algorithms from the book "Introduction to Algorithms" In Python
